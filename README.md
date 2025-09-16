@@ -4,6 +4,7 @@
 </div>
 Nesta disciplina, mergulhamos no universo do empreendedorismo, explorando a fundo a relação entre negócios, inovação e processos criativos. O objetivo foi ir além da teoria, entendendo como essas áreas se conectam para gerar valor e impacto na sociedade.
 
+
 **Aprendizados e Projetos**
 Ao longo do curso, estudamos conceitos essenciais, como o Modelo Canvas, uma ferramenta fundamental para planejar e estruturar ideias de negócio de forma visual e intuitiva.
 
