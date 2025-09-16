@@ -1,7 +1,9 @@
 # Empreendedorismo
+
 <div align="center">
   <img src="img/Empreendedorismo.png" alt="Gráfico de desempenho do sistema" width="300"/>
 </div>
+
 Nesta disciplina, mergulhamos no universo do empreendedorismo, explorando a fundo a relação entre negócios, inovação e processos criativos. O objetivo foi ir além da teoria, entendendo como essas áreas se conectam para gerar valor e impacto na sociedade.
 
 
